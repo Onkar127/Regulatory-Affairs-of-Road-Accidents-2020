@@ -7,22 +7,31 @@ The dashboard is built using Pivot Tables, Charts, and Excel formulas to convert
 DATASET INFO :
 
 Dataset Name: Regulatory Affairs of Road Accident Data – India (2020) 
+
 Format: .xlsx 
+
 Source: Government/Regulatory road accident records 
+
 Scope: India (State-wise & category-wise accident data)
 
 OBEJECTIVE:
 
 Analyze road accident trends across India
+
 Identify high-risk states and accident categories
+
 Understand causes and severity of accidents
+
 Create an interactive Excel dashboard for easy analysis
 
 INSIGHTS:
 
 States with highest number of accidents
+
 Major causes of road accidents
+
 Relationship between accidents, injuries, and fatalities
+
 Visual comparison for quick decision-making
 
 DASHBOARD IMAGE 
