@@ -5,9 +5,13 @@ The goal of this dashboard is to provide clear insights, KPIs, and trends relate
 The dashboard is built using Pivot Tables, Charts, and Excel formulas to convert raw data into meaningful visual insights.
 
 DATASET INFO 
+
 Dataset Name: Regulatory Affairs of Road Accident Data – India (2020)
+
 Format: .xlsx
+
 Source: Government/Regulatory road accident records
+
 Scope: India (State-wise & category-wise accident data)
 
 OBEJECTIVE
