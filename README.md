@@ -23,4 +23,9 @@ Relationship between accidents, injuries, and fatalities
 Visual comparison for quick decision-making
 
 DASHBOARD IMAGE 
+
+
+
+
+
 <img width="855" height="606" alt="Screenshot 2026-01-06 201233" src="https://github.com/user-attachments/assets/4dc2ab60-1e37-45bf-affa-d6fba2976b04" />
